@@ -3,5 +3,5 @@ Presentations of various talks at NG-SriLanka 2019
 ***
 
 ## Improving Startup Performance with Angular Lazy Loading - Srashti Jain
-Slide Deck: http://bit.do/ngsl-lazyloading <br/>
-Demo: [https://github.com/srashtisj/Angular-LazyLoading](https://github.com/srashtisj/Angular-LazyLoading/?target="_blank")
+Slide Deck: http://bit.do/ngsl-lazyloading 
+Demo: https://github.com/srashtisj/Angular-LazyLoading
