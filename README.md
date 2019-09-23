@@ -15,6 +15,10 @@ Presentations of various talks at NG-SriLanka 2019
 **Slide Deck:** https://slides.com/pankajparkar/craft-your-own-custom-form-control <br/> 
 **Demo:** https://github.com/pankajparkar/radio-group
 
+### Getting Started With NgRx - Santosh Yadav
+**Slide Deck:** https://docs.google.com/presentation/d/1JtV39DnqLAGSexGoyjv1jtaThI7iI-W6GLHMUUS54tY/edit?usp=sharing <br/>
+**Demo:** https://github.com/santoshyadav198613/ng-Srilanka-NgRx-Demo
+
 ## Sandwich Track 1
 
 ### Containerizing Angular with Docker - Muhammad Umair Khan
