@@ -4,7 +4,7 @@ Presentations of various talks at NG-SriLanka 2019
 
 ## Stacked Track
 
-## Creating Libraries in Angular - Nishu Goel
+### Creating Libraries in Angular - Nishu Goel
 **Slide Deck:** https://speakerdeck.com/nishugoel/creating-libraries-in-angular
 **Github Repo Link:** https://github.com/NishuGoel/ngSLDemo
 **Play Around on Stackblitz:** https://stackblitz.com/github/NishuGoel/ngSLDemo
