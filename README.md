@@ -8,6 +8,11 @@ Presentations of various talks at NG-SriLanka 2019
 **Slide Deck:** https://speakerdeck.com/chybie/how-we-build-ng-my-website  
 **Github Repo Link:** https://github.com/chybie/ng-my
 
+### Ivy FTW - SiddAjmera
+**Slide Deck:** https://docs.google.com/presentation/d/1F51_pcJNVVaEDmzijXJ2ijhs5xokLN9sjqUeyl49V9k/edit?usp=sharing
+**HoC and Dynamic Component Loading Demo:** https://stackblitz.com/edit/lazy-load-angular-component-with-minimal-angular-dependency
+**Rendering Angular Components without Modules:** https://stackblitz.com/edit/rendering-an-angular-component-without-complete-angular
+
 ### Creating Libraries in Angular - Nishu Goel  
 **Slide Deck:** https://speakerdeck.com/nishugoel/creating-libraries-in-angular  
 **Github Repo Link:** https://github.com/NishuGoel/ngSLDemo  
