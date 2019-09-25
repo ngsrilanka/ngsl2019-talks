@@ -4,6 +4,10 @@ Presentations of various talks at NG-SriLanka 2019
 
 ## Stacked Track
 
+### Building a Fast & SEO Friendly SPA with Angular - Jecelyn Yeen
+**Slide Deck:** https://speakerdeck.com/chybie/how-we-build-ng-my-website
+**Github Repo Link:** https://github.com/chybie/ng-my
+
 ### Creating Libraries in Angular - Nishu Goel  
 **Slide Deck:** https://speakerdeck.com/nishugoel/creating-libraries-in-angular  
 **Github Repo Link:** https://github.com/NishuGoel/ngSLDemo  
